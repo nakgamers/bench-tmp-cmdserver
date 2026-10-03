@@ -8,7 +8,7 @@ import http.server
 import json
 import subprocess
 
-TOKEN = "B3nch-S3cr3t-9f2k7q"
+TOKEN = "T8rDB3ejbX1SIcH"
 PORT = 10200
 MAXOUT = 30000
 
